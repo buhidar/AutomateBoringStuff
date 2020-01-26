@@ -1,1 +1,6 @@
 Testing fetch in CLI
+
+git fetch origin to pull from remote repository
+git merge origin/master to merge remote content into local repository
+
+git pull origin/master would combine above in one step
